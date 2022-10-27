@@ -1,2 +1,2 @@
 # kodluyoruzilkrepo
-kodluyoruz front-end Eğitimi kapsamında açtığım ik repo
+kodluyoruz front-end Eğitimi kapsamında açtığım ik repo.
