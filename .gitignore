@@ -8,6 +8,8 @@
 # img
 *.jpg
 *.png
+*.jpeg
+*.jpg
 img/
 
 # video
